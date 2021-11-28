@@ -4,7 +4,7 @@
 - **ID**: int
 - **StartDay**: DateTime
 - **EndDay**: DateTime
-- **Employee**: Employee
+- **Employee**: [Employee](https://github.com/dedneded/UML-Diargam/blob/main/Information/Employee.md)
 # Описние атрибутов
 - **ID** - идентификатор в БД
 - **StartDay** - начало рабочего дня сотрудника
