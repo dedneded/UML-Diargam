@@ -10,4 +10,4 @@
 - Проведение анализа деятельности(формирование статистики за периоды времени).
 
 ## Диаграмма прецедентов
-
+![UseCaseDiagram](https://github.com/dedneded/UML-Diargam/blob/main/Images/UseCaseDiagram.png)
