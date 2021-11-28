@@ -2,7 +2,7 @@
 **CategoryOfVehicle** - класс, представляющий категории спецтехники.
 # Атрибуты
 - **ID**: int
-- **Parent**: CategoryOfVehicle
+- **Parent**: [CategoryOfVehilce](https://github.com/dedneded/UML-Diargam/blob/main/Information/CategoryOfVehicle.md)
 - **Name**: string
 # Описание атрибутов
 - **ID** - идентификатор в БД
