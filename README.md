@@ -11,3 +11,5 @@
 
 ## Диаграмма прецедентов
 ![UseCaseDiagram](https://github.com/dedneded/UML-Diargam/blob/main/Images/UseCaseDiagram.png)
+## Диаграмма классов
+![ClassDiagram](https://github.com/dedneded/UML-Diargam/blob/main/Images/ClassDiagram.png)
