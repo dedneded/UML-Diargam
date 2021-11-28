@@ -2,7 +2,8 @@
 **Vehicle** - класс, представляющий спецтехнику, которая числится в центре спецтехники.
 # Атрибуты
 - **ID**: int
-- **CategoryOfVehicle**: CategoryOfVehicle +IsNeedDelivery: bool
+- **CategoryOfVehicle**: [CategoryOfVehilce](https://github.com/dedneded/UML-Diargam/blob/main/Information/CategoryOfVehicle.md)
+- **IsNeedDelivery**: bool
 - **BrandAndModel**: string
 - **YearOfIssue**: DateTime
 - **GosNum**: string
@@ -12,11 +13,12 @@
 - **ShipmentTime**: int
 - **DrivingCategory**: DrivingCategories
 - **PricePerHour**: decimal
-- **Branch**: Branch
+- **Branch**: [Branch](https://github.com/dedneded/UML-Diargam/blob/main/Information/Branch.md)
 - **Comment**: string
 # Описание атрибутов
 - **ID** - идентификатор в БД
 - **CategoryOfVehicle** - категория техники
+- **IsNeedDelivery** - атрибут, показывающий нуждается ли спецтехника в доставке
 - **BrandAndModel** - бренд и модель техники
 - **YearOfIssue** - дата выпуска
 - **GosNum** - госномер
