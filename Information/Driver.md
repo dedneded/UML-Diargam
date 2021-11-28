@@ -8,8 +8,8 @@
 - **DrivingCategories**: DrivingCaregories[]
 - **Login**: string
 - **Pass**: string
-- **Role**: 
-- **Branch**:
+- **Role**: [Role](https://github.com/dedneded/UML-Diargam/blob/main/Information/Role.md)
+- **Branch**: [Branch](https://github.com/dedneded/UML-Diargam/blob/main/Information/Branch.md)
 # Описание атрибутов
 - **ID** - идентификатор в БД
 - **FIO** - ФИО водителя
