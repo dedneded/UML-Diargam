@@ -7,7 +7,7 @@
 - **End**: DateTime
 - **PriceModifier**: decimal
 - **IsOptional**: bool
-- **Branch**: Branch
+- **Branch**: [Branch](https://github.com/dedneded/UML-Diargam/blob/main/Information/Branch.md)
 # Описание атрибутов
 - **ID** - идентификатор в БД
 - **Name** - нименование скидки
