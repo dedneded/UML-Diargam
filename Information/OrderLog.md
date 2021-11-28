@@ -4,7 +4,7 @@
 - **ID**: int
 - **Date**: DateTime
 - **Event**: string
-- **Order**: Order
+- **Order**: [Order](https://github.com/dedneded/UML-Diargam/blob/main/Information/Order.md)
 # Описание атрибутов
 - **ID** - идентификатор в БД
 - **Date** - дата изменения
