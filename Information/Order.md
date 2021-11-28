@@ -4,16 +4,16 @@
 - **ID**: int
 - **Start**: DateTime
 - **End**: DateTime
-- **Client**: Client
+- **Client**: [Client](https://github.com/dedneded/UML-Diargam/blob/main/Information/Client.md)
 - **Price**: decimal
-- **ByCas**: bool
+- **ByCash**: bool
 - **Status**: Status
 - **Distance**: int
 - **Address**: string
-- **Branch**: Branch
-- **Employee**: Employee
+- **Branch**: [Branch](https://github.com/dedneded/UML-Diargam/blob/main/Information/Branch.md)
+- **Employee**: [Employee](https://github.com/dedneded/UML-Diargam/blob/main/Information/Employee.md)
 - **Comment**: string
-- **DiscountPare**: Dictionary<CategoryOfVehicle, Discount>
+- **DiscountPare**: Dictionary<[CategoryOfVehilce](https://github.com/dedneded/UML-Diargam/blob/main/Information/CategoryOfVehicle.md), [Discount](https://github.com/dedneded/UML-Diargam/blob/main/Information/Discount.md)>
 # Описание атрибутов
 - **ID** - идентификатор в БД
 - **Start** - начало заказа
