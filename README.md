@@ -30,3 +30,17 @@
 - [Branch](https://github.com/dedneded/UML-Diargam/blob/main/Information/Branch.md)
 - [TimetableBranch](https://github.com/dedneded/UML-Diargam/blob/main/Information/TimetableBranch.md)
 - [Discount](https://github.com/dedneded/UML-Diargam/blob/main/Information/Discount.md)
+## Диаграмма состояний
+![StatechartDiagram](https://github.com/dedneded/UML-Diargam/blob/main/Images/statechart.png)
+Данная диаграмма описывает состояния заказа. В коде программы состояния хранятся в виде enumeration.
+## Диаграмма деятельности
+![ActivityDiagram](https://github.com/dedneded/UML-Diargam/blob/main/Images/activity_diagram.png)
+Данная диаграмма описывает процесс выполнения заказа.
+## Диаграмма последовательности
+### Добавление водителя
+![SequenceDiagramAddDriver](https://github.com/dedneded/UML-Diargam/blob/main/Images/SequenceDiagram_AddDriver.png)
+Данная диаграмма показывает процесс добавления водителя в программе.
+### Создание заказа
+[Данная диаграмма](https://github.com/dedneded/UML-Diargam/blob/main/Diagram/SequenceDiagram_AddOrder.vsdx) показывает процесс создания заказа в программе.
+
+
