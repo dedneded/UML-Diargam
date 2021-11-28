@@ -4,7 +4,7 @@
 - **ID**: int
 - **Name**: string
 - **Description** : string
-- **Parent**: Service
+- **Parent**: [Service](https://github.com/dedneded/UML-Diargam/blob/main/Information/Service.md)
 # Описание атрибутов
 - **ID** - идентификатор в БД
 - **Name** - наименование услуги
