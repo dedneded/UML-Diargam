@@ -1,5 +1,5 @@
 ## Описание класса Employee
-**Employee** - абстрактный класс, представляющий собой работника сервисного центра. От него наследуется [Driver](https://github.com/dedneded/UML-Diargam/blob/main/Information/Driver.md). 
+**Employee** - класс, представляющий собой работника сервисного центра. От него наследуется [Driver](https://github.com/dedneded/UML-Diargam/blob/main/Information/Driver.md). 
 # Атрибуты
 - **ID**: int
 - **FIO**: string
