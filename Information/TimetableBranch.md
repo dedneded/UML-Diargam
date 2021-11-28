@@ -4,7 +4,7 @@
 - **ID**: int
 - **StartDay**: DateTime
 - **EndDay**: DateTime
-- **Branch**: Branch
+- **Branch**: [Branch](https://github.com/dedneded/UML-Diargam/blob/main/Information/Branch.md)
 # Описание атрибутов
 - **ID** - идентификатор в БД
 - **StartDay** - начало рабочего дня филиала
