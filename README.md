@@ -52,6 +52,6 @@
 <hr>
 
 ## Диаграмма интерфейсов
-
+![InterfaceDiagram](https://github.com/dedneded/UML-Diargam/blob/main/Images/Interface%20diagram.png)
 
 
