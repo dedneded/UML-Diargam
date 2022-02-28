@@ -47,9 +47,9 @@
 Данная диаграмма описывает процесс добавления в каталог нового клиента.
 ## API
 ### Внимание! Диаграммы представленные ниже не полностью реализованы в самом проекте. Это пример того, как выглядело бы взаимодействие с системой, если бы разработка осуществлялась с помощью API.  
-## Схема endpoint'ов
-![ComponentDiagram1](https://github.com/dedneded/UML-Diargam/blob/main/Images/Сomponentdiagram2.png)
-![ComponentDiagram2](https://github.com/dedneded/UML-Diargam/blob/main/Images/Сomponentdiagram1.png)
+## Схема endpoint'ов 
+![ComponentDiagram1](https://github.com/dedneded/UML-Diargam/blob/main/Images/Сomponentdiagram1.png)
+![ComponentDiagram2](https://github.com/dedneded/UML-Diargam/blob/main/Images/Сomponentdiagram2.png)
 <hr>
 
 ## Диаграмма интерфейсов
