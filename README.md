@@ -42,5 +42,17 @@
 Данная диаграмма показывает процесс добавления водителя в программе.
 ### Создание заказа
 [Данная диаграмма](https://github.com/dedneded/UML-Diargam/blob/main/Diagram/SequenceDiagram_AddOrder.vsdx) показывает процесс создания заказа в программе.
+## Диаграмма коммуникаций
+![CommunicationDiagram](https://github.com/dedneded/UML-Diargam/blob/main/Images/CommunicationDiagram_AddClient.png)
+Данная диаграмма описывает процесс добавления в каталог нового клиента.
+## API
+### Внимание! Диаграммы представленные ниже не полностью реализованы в самом проекте. Это пример того, как выглядело бы взаимодействие с системой, если бы разработка осуществлялась с помощью API.  
+## Схема endpoint'ов
+![ComponentDiagram1](https://github.com/dedneded/UML-Diargam/blob/main/Images/Сomponentdiagram1.png)
+![ComponentDiagram2](https://github.com/dedneded/UML-Diargam/blob/main/Images/Сomponentdiagram2.png)
+<hr>
+
+## Диаграмма интерфейсов
+
 
 
